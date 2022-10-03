@@ -1,0 +1,13 @@
+
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\src - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\res - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\savegames - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\temp - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\src\main - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\src\test - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\res\drawables - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\res\vectors - создан
+Директория C:\Users\USER\IdeaProjects\Install\Install\Games\res\icons - создан
+Файл: C:\Users\USER\IdeaProjects\Install\Install\Games\src\main\Main.java - создан
+Файл: C:\Users\USER\IdeaProjects\Install\Install\Games\src\main\Utils.java - создан
+Файл: C:\Users\USER\IdeaProjects\Install\Install\Games\temp\temp.txt - создан
